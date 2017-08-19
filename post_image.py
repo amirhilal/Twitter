@@ -31,4 +31,4 @@ def tweet_image(url, message):
     else:
         print("Unable to download image")
 
-tweet_image(random.choice(images), "#SMT @RealDonaldTrump")
+tweet_image(random.choice(images), "#SMT @IshanaBot")
